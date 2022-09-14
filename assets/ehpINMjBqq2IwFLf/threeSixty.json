@@ -1,0 +1,27 @@
+{
+  "version": "3.54.25674.0",
+  "course_id": "6LSR1i3mndS_course_id",
+  "title": "Samuel story 1 v2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Samuel's story - part 2"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5a71TeExgBt",
+      "title": "Samuel's story",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

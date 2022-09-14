@@ -1,0 +1,27 @@
+{
+  "version": "3.66.28355.0",
+  "course_id": "5iL2OmVlEgS_course_id",
+  "title": "Samuel story 1 v2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Samuel's story - part 2"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6n9pMtfKW5r",
+      "title": "coming up with solutions",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
